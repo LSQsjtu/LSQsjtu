@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I‘m Shengqi Liu.
 
-- 👷 I'm a sophomore student major in Automation at Shanghai Jiao Tong University
+- 👷 I'm a junior student major in Automation at Shanghai Jiao Tong University
 - ⏰ Learning pytorch now and trying to deep into object detection.
 
 ![LSQsjtu's github stats](https://github-readme-stats.vercel.app/api?username=LSQsjtu&theme=vue&count_private=true&show_icons=true&hide=prs,issues)
