@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I‘m Shengqi Liu.
+
+- 👷 I'm a sophomore student major in Automation at Shanghai Jiao Tong University
+- ⏰ Learning pytorch now and trying to deep into object detection.
 
 ![LSQsjtu's github stats](https://github-readme-stats.vercel.app/api?username=LSQsjtu&theme=vue&count_private=true&show_icons=true&hide=prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
