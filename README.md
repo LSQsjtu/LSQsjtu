@@ -19,6 +19,11 @@ I‘m Shengqi Liu.
 - 👷 I'm a junior student major in Automation at Shanghai Jiao Tong University
 - ⏰ Learning pytorch now and trying to deep into object detection.
 
+
+- Github status
+
 ![LSQsjtu's github stats](https://github-readme-stats.vercel.app/api?username=LSQsjtu&theme=vue&count_private=true&show_icons=true&hide=prs,issues)
+
+- Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
