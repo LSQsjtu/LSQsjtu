@@ -20,4 +20,4 @@ I‘m Shengqi Liu.
 - ⏰ Learning pytorch now and trying to deep into object detection.
 
 ![LSQsjtu's github stats](https://github-readme-stats.vercel.app/api?username=LSQsjtu&theme=vue&count_private=true&show_icons=true&hide=prs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
