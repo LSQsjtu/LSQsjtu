@@ -19,6 +19,8 @@ I'm Shengqi Liu.
 - 👷 I'm a junior student major in Automation at Shanghai Jiao Tong University.
 - ⏰ Want to try my best to seek how the life will be like.
 
+Feel free to contact me at liushengqilsq@gmail.com
+
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LSQsjtu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
