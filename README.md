@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Shengqi Liu.
 
-- 👷 I'm a junior student major in Automation at Shanghai Jiao Tong University.
+- 👷 I'm a senior student major in Automation at Shanghai Jiao Tong University.
 - ⏰ Want to try my best to seek how the life will be like.
 
 Feel free to contact me at liushengqilsq@gmail.com
