@@ -18,7 +18,7 @@ I'm Shengqi Liu.
 
 - ⏰ Want to try my best to seek how the life will be like.
 
-Feel free to contact me at liushengqilsq@gmail.com
+Feel free to contact me at liusqlsq@163.com
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=LSQsjtu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSQsjtu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
